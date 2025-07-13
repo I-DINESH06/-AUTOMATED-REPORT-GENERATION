@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*TASK DESCRPTION*
+#TASK DESCRPTION
 
 The objective of this task was to develop a complete Python-based solution that reads data from a file, performs basic data analysis, and generates a structured PDF report. The task involved multiple stages, including data collection, preprocessing, analysis, and automated report generation using appropriate Python libraries. The final output is a professional-looking PDF file summarizing the analyzed results in a clear and organized format.
 
@@ -28,5 +28,5 @@ Finally, the script generated the PDF file and saved it with the name sample_rep
 
 The overall project demonstrated how to integrate file handling, data analysis, and report generation into a single automated workflow. It can be further enhanced with additional features such as charts, logos, timestamping, or integration with email services for automatic distribution of reports.
 
-*OUTPUT*
+#OUTPUT
 
