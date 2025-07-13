@@ -32,6 +32,10 @@ The overall project demonstrated how to integrate file handling, data analysis, 
 
 <img width="1913" height="1013" alt="Image" src="https://github.com/user-attachments/assets/2e9c5ba3-a533-4b8f-af1c-84f6b67ea701" />
 
+
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e96dfb80-942f-476e-a029-03facc3b7a78" />
+
+
 
 <img width="867" height="593" alt="Image" src="https://github.com/user-attachments/assets/6d223761-9cdf-4af0-9c9d-c1fb2c0d632c" />
