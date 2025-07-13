@@ -27,3 +27,6 @@ The summary section of the report included the calculated statistics: the averag
 Finally, the script generated the PDF file and saved it with the name sample_report.pdf in the working directory. A confirmation message was printed to indicate successful completion. This task showcases a practical use of Python for automating repetitive documentation tasks, particularly in fields like education, HR, and business reporting.
 
 The overall project demonstrated how to integrate file handling, data analysis, and report generation into a single automated workflow. It can be further enhanced with additional features such as charts, logos, timestamping, or integration with email services for automatic distribution of reports.
+
+*OUTPUT*
+
